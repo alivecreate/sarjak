@@ -46,8 +46,8 @@
 :root {      
     --alt-font: 'cerebri-sans-regular';
     --primary-font:  'cerebri-sans-regular';
-    --base-color: #005153;
-    --dark-gray:#1e3238;
+    --base-color: #2c2318;
+    --dark-gray:#5f3f15;
     --very-light-gray:#eceff1;
     --yellow: #ecab23;
     --medium-gray: #7c898d;
@@ -128,7 +128,7 @@ header .btn.btn-small i {
     top:-2px;
 }
 header .navbar-brand img {
-    max-height: 36px;
+    max-height: 55px;
 }
 .navbar .navbar-nav .dropdown.dropdown-with-icon-style02 .dropdown-menu {
     width: 300px;
@@ -339,7 +339,7 @@ header .navbar-brand img {
 }
 /* footer */
 footer .footer-logo img {
-    max-height: 36px;
+    max-height: 70px;
 }
 .footer-dark p, .footer-dark .widget-text {
     color: var(--white);
